@@ -1,0 +1,12 @@
+{
+  "name": "playlist-generator",
+  "version": "1.0.0",
+  "description": "Generiert aus der JSON Datei des SignageGenerator eine Playlist für FBI.",
+  "main": "generatePlaylsit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
