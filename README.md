@@ -1,5 +1,5 @@
 # playlist-generator
-Generiert aus der JSON Datei des SignageGenerator eine Playlist für FBI.
+Generiert aus der JSON Datei des SignageGenerator eine Playlist für den Linux framebuffer imageviewer (fbi).
 
 ## install
 
